@@ -15,7 +15,7 @@ The **Intelligent Patient Risk Assessment System** is a machine learning–power
 
 ## 🔗 Live Demo
 
-🌐 **Live App:** [Insert Streamlit Cloud URL here]
+🌐 **Live App:** https://patient-risk-assessment-pngmjqymiun8h3fvblgek7.streamlit.app/
 
 ---
 
