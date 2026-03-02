@@ -39,20 +39,19 @@ Users can either **upload their own patient dataset** (CSV or Excel) or use one 
 ## 🖼️ Screenshots
 
 ### Tab 1 — Predictions & Risk Assessment
-> *(Replace the line below with your actual screenshot)*
-```
 ![Tab 1 - Predictions](assets/screenshots/screenshot_tab1.png)
-```
 
 ### Tab 2 — Model Evaluation Metrics
-```
 ![Tab 2 - Metrics](assets/screenshots/screenshot_tab2.png)
-```
 
 ### Tab 3 — Trend Insights
-```
 ![Tab 3 - Trend Insights](assets/screenshots/screenshot_tab3.png)
-```
+
+### Upload Feature
+![Upload Feature](assets/screenshots/screenshot_upload.png)
+
+### Low Risk Predictions
+![Low Risk](assets/screenshots/screenshot_lowrisk.png)
 
 ---
 
