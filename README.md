@@ -10,7 +10,7 @@
 
 **A machine learning–powered web application for diabetes risk prediction**
 
-[🌐 Live Demo](https://patient-risk-assessment-pngmjqymiun8h3fvblgek7.streamlit.app/) • [📁 GitHub Repo](https://github.com/nishantvatssharma4115/patient-risk-assessment) • [📄 Report](#)
+[🌐 Live Demo](https://patient-risk-assessment-pngmjqymiun8h3fvblgek7.streamlit.app/) • [📁 GitHub Repo](https://github.com/nishantvatssharma4115/patient-risk-assessment) • [📄 Report](https://www.overleaf.com/read/vdgkskjhcjnt#64e834)
 
 ---
 
